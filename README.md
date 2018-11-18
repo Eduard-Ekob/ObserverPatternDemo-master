@@ -1,5 +1,5 @@
 ## Observer Pattern Demo
-
+Версия на событиях https://github.com/Eduard-Ekob/ObserverPatternEvent
 **(deadline - 04.11.2018, 24.00)** Метеостанция работает на базе запатентовнного объекта WeatherData, отслеживающего текущие погодные условия (температура (Temperature), влажность (Humidity), атмосферное давление (Pressure)). 
 
 Разработать систему классов для создания текущей сводки (CurrentConditionsReport) и статистики (StatisticReport). Все данные должны обновляться в режиме реального времени, по мере того, как объект WeatherData получает данные последних изменений.
